@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving web-based solutions and implementing Testing solutions.<br><br>👯 I’m looking to collaborate on:<br>Testing projects<br><br>🌱 I’m currently learning:<br>Microsoft Azure frameworks & Algorithms.<br><br>💬 Ask me about:<br>Automation Testing , Selenium and any Testing related content.<br><br>⚡ Fun fact:<br>I'd love to learn and work on Sport Analytics.
+Proficient Automation Tester and Quality Assurance Analyst with mid-level experience in Selenium, Java, and testing frameworks.<br><br>👯 I’m looking to collaborate on:<br>Web-based Testing projects.<br><br>🌱 I’m currently learning:<br>Microsoft Azure frameworks & Algorithms.<br><br>💬 Ask me about:<br>Automation Testing , Selenium and any Testing related content.<br><br>⚡ Fun fact:<br>I'd love to learn and work on Sport Analytics.
 
 
 ## 🌐 Socials:
